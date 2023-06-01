@@ -6,8 +6,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+<div align="center">
+  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr13nds202201&label=Profile%20views&color=0e75b6&style=flat" alt="fr13nds202201" /> </p>
