@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jose Gonzales</h1>
 <h3 align="center">Engineer of Security of Telecom and FullStack developer from Perú - Lima</h3>
-<img align="right" alt="Coding" width="400"  src="https://dot.jo/uploads/2022/10/web-development.gif">
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr13nds202201&label=Profile%20views&color=0e75b6&style=flat" alt="fr13nds202201" /> </p>
 
 - 🔭 I’m currently working on [Projects of personal](https://app.netlify.com/sites/portfolio-pro-jc/overview)
